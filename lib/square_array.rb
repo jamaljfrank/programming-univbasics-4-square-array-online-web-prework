@@ -7,4 +7,4 @@ def square_array(numbers)
     count += 1
   end
   squared
-
+end
