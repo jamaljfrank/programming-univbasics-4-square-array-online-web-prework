@@ -1,10 +1,10 @@
 def square_array(numbers)
   
-  counter = 0							
+  count = 0							
   squared = []
-  while numbers(counter) do
-    squared << (numbers[counter] ** 2)
-    counter += 1
+  while numbers(count) do
+    squared << (numbers[count] ** 2)
+    count += 1
   end
   squared
 end
