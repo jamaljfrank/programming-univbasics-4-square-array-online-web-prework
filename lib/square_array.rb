@@ -1,6 +1,5 @@
 def square_array(numbers)
-   while numbers(counter) do
-     numbers(counter)**2 
+   counter = 0
      
  end
   
