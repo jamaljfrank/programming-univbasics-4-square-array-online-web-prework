@@ -2,7 +2,7 @@ def square_array(numbers)
   
   counter = 0
   squared = []
-  while numbers(count) do
+  while numbers(counter) do
     squared << (numbers[counter] ** 2)
     counter += 1
   end
